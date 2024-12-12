@@ -1,0 +1,15 @@
+../Core/Src/math_helper.c:62:7:arm_snr_f32	5
+../Core/Src/math_helper.c:120:6:arm_provide_guard_bits_q15	2
+../Core/Src/math_helper.c:140:6:arm_float_to_q12_20	4
+../Core/Src/math_helper.c:166:10:arm_compare_fixed_q15	3
+../Core/Src/math_helper.c:194:10:arm_compare_fixed_q31	3
+../Core/Src/math_helper.c:224:6:arm_provide_guard_bits_q31	2
+../Core/Src/math_helper.c:246:6:arm_provide_guard_bits_q7	2
+../Core/Src/math_helper.c:268:10:arm_calc_guard_bits	3
+../Core/Src/math_helper.c:294:6:arm_apply_guard_bits	2
+../Core/Src/math_helper.c:311:10:arm_calc_2pow	2
+../Core/Src/math_helper.c:335:6:arm_float_to_q14	4
+../Core/Src/math_helper.c:365:6:arm_float_to_q30	4
+../Core/Src/math_helper.c:392:6:arm_float_to_q29	4
+../Core/Src/math_helper.c:420:6:arm_float_to_q28	4
+../Core/Src/math_helper.c:446:6:arm_clip_f32	4
